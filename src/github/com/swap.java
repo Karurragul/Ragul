@@ -16,6 +16,7 @@ public class swap
 		         
 		        String s2 = sc.next();
 		         
+		        System.out.println("++++++ Swapping :");
 		        System.out.println("Before Swapping :");
 		         
 		        System.out.println("s1 : "+s1);
