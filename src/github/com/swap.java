@@ -22,6 +22,12 @@ public class swap
 		        System.out.println("s1 : "+s1);
 		         
 		        System.out.println("s2 : "+s2);
+		        System.out.println("After Swapping :");
+		         
+		        System.out.println("s1 : "+s1);
+		         
+		        System.out.println("s2 : "+s2);
+
 		         
 		        //Swapping starts
 		         
@@ -31,7 +37,7 @@ public class swap
 		         
 		        s1 = s1.substring(s2.length());
 		         
-		        //Swapping ends
+//		        //Swapping ends
 		         
 		        System.out.println("After Swapping :");
 		         
